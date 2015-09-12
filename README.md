@@ -1,2 +1,5 @@
-# blog
-Using an issue tracker as a blog, ftw! Go here: https://github.com/aubergine10/blog/issues
+> So, I decided to learn Lua...
+
+For the most part it's an utterly awesome scripting language. I decided to write a small blog to keep track of some of the more interesting things I've encountered so far. You can find the blog in the issue tracker...
+
+### Blog URL: https://github.com/aubergine10/blog/issues
